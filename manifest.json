@@ -1,0 +1,42 @@
+```json
+{
+  "latestVersion": 1005,
+  "patches": [
+    {
+      "version": 1001,
+      "fileName": "1001.zip",
+      "size": 292,
+      "sha256": "a359c8bf400c443fa5aa3782ab0ee15d0d8fca495a27c1d1824f9e2151117e94",
+      "url": "https://github.com/Nohoclakem/UtopiaClassic-Patches/releases/download/v1005/1001.zip"
+    },
+    {
+      "version": 1002,
+      "fileName": "1002.zip",
+      "size": 296,
+      "sha256": "0882f0afa39080f84669b697b9d15282a83dc0289b64063f858ed754e5e5e506",
+      "url": "https://github.com/Nohoclakem/UtopiaClassic-Patches/releases/download/v1005/1002.zip"
+    },
+    {
+      "version": 1003,
+      "fileName": "1003.zip",
+      "size": 468,
+      "sha256": "ec7a623ca340cb57e72e880eeac815f3801a391dd6522bedcd8b97b2258c259f",
+      "url": "https://github.com/Nohoclakem/UtopiaClassic-Patches/releases/download/v1005/1003.zip"
+    },
+    {
+      "version": 1004,
+      "fileName": "1004.zip",
+      "size": 595,
+      "sha256": "e06fc6b059e98552120680d68613a16a03dae29c2576e5a7bc080c3eb070fbf2",
+      "url": "https://github.com/Nohoclakem/UtopiaClassic-Patches/releases/download/v1005/1004.zip"
+    },
+    {
+      "version": 1005,
+      "fileName": "1005.zip",
+      "size": 595,
+      "sha256": "d8fd4f53aaa8c5431071879cf92fe5a1cc661022998f94d55f82b9d0fa187cb3",
+      "url": "https://github.com/Nohoclakem/UtopiaClassic-Patches/releases/download/v1005/1005.zip"
+    }
+  ]
+}
+```
